@@ -1,4 +1,5 @@
-[debug] "not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/Users/smun/spark-scala-tutorials/"), "spark-scala-tutorials")...
-[debug] Done updating ProjectRef(uri("file:/Users/smun/spark-scala-tutorials/"), "spark-scala-tutorials")
+[warn] scala-library-2.12.12-sources.jar no longer exists at /Users/smun/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12-sources.jar
+[debug] "not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/Users/seonjunmun/Desktop/seonjun-github/spark-scala-tutorials/"), "spark-scala-tutorials")...
+[debug] Done updating ProjectRef(uri("file:/Users/seonjunmun/Desktop/seonjun-github/spark-scala-tutorials/"), "spark-scala-tutorials")
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
